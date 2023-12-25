@@ -1,0 +1,3 @@
+tensorflow
+cvzone
+opencv-python
